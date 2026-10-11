@@ -66,4 +66,4 @@ jupyter notebook notebooks/covid19_case_study.ipynb
 Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter
 
 ## Author
-Satyam Arora | [LinkedIn](https://www.linkedin.com/in/satyam-arorab83a3648)
+Satyam Arora | [LinkedIn Profile](https://www.linkedin.com/in/satyam-arora-b83a3648)
